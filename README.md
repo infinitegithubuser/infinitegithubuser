@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @infinitegithubuser
 - 👀 I’m interested in app and backend development
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on anything
 -  📫 How to reach me please mail me on mohammed.uni.2007@gmail.com
 - 😄 Pronouns: He/Him
